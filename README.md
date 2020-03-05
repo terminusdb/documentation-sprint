@@ -1,11 +1,11 @@
 # Documentation Sprint - WOQL function list
 
-[WOQL Function List](Doc-Sprint-WOQL-function-list/WOQL-Function-List.csv)
+[WOQL Function List](WOQL-Function-List.csv)
 
-[WOQLQuery API](Doc-Sprint-WOQL-function-list/WOQLQuery-API.csv)
+[WOQLQuery API](WOQLQuery-API.csv)
 
-[Pre-rolled Queries](Doc-Sprint-WOQL-function-list/Pre-rolled-Queries.csv)
+[Pre-rolled Queries](Pre-rolled-Queries.csv)
 
-[woqlDataframe](Doc-Sprint-WOQL-function-list/woqlDataframe.csv)
+[woqlDataframe](woqlDataframe.csv)
 
-[woqlClient](Doc-Sprint-WOQL-function-list/woqlClient.csv)
+[woqlClient](woqlClient.csv)
