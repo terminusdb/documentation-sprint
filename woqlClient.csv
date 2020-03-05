@@ -1,0 +1,24 @@
+﻿Name,Short description,Long description,Parameter,Return,Example,See Also,Assignee
+connect,Yes,Yes,Yes,Yes,No,No,Robin de Rooij
+directConnect,Yes,Yes,Yes,Yes,No,No,Robin de Rooij
+createDatabase,Yes,Yes,Yes,Yes,No,No,Robin de Rooij
+directCreateDatabase,Yes,No,Yes,Yes,No,No,Robin de Rooij
+deleteDatabase,Yes,Yes,Yes,Yes,No,No,Robin de Rooij
+directDeleteDatabase,Yes,Yes,Yes,Yes,No,No,Robin de Rooij
+getSchema,Yes,Yes,Yes,Yes,No,No,Robin de Rooij
+directGetSchema,Yes,Yes,Yes,Yes,No,No,Robin de Rooij
+updateSchema,Yes,Yes,Yes,Yes,No,No,Robin de Rooij
+directUpdateSchema,Yes,Yes,Yes,Yes,No,No,Robin de Rooij
+createDocument,Yes,No,Yes,Yes,No,No,Robin de Rooij
+directCreateDocument,Yes,No,Yes,Yes,No,No,Robin de Rooij
+getDocument,Yes,No,Yes,Yes,No,No,Robin de Rooij
+directGetDocument,Yes,No,Yes,Yes,No,No,Robin de Rooij
+updateDocument,Yes,Yes,Yes,Yes,No,No,Robin de Rooij
+directUpdateDocument,Yes,No,Yes,Yes,No,No,Robin de Rooij
+deleteDocument,Yes,No,Yes,Yes,No,No,Robin de Rooij
+directDeleteDocument,Yes,No,Yes,Yes,No,No,Robin de Rooij
+select,Yes,No,Yes,Yes,No,No,Robin de Rooij
+directSelect,No,No,No,Yes,No,No,Robin de Rooij
+update,No,Yes,No,Yes,No,No,Robin de Rooij
+directUpdate,Yes,Yes,Yes,Yes,No,No,Robin de Rooij
+dispatch,No,No,No,No,No,No,Robin de Rooij

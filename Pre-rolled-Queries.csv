@@ -1,0 +1,14 @@
+﻿Name (WOQL.js),Name (WOQLpy),Short Description,Long Description,Parameter,Return,Example,See Also,Assignee
+q.getEverything(Graph),WOQLQuery().get_everything(Graph),No,No,No,No,No,No,Gavin Mendel-Gleason
+q.getAllDocuments(),WOQLQuery().get_all_documents(),No,No,No,No,No,No,
+q.documentMetadata(),WOQLQuery().document_metadata(),No,No,No,No,No,No,
+q.concreteDocumentClasses(),WOQLQuery().concrete_document_classes(),No,No,No,No,No,No,
+q.propertyMetadata(),WOQLQuery().property_metadata(),No,No,No,No,No,No,
+q.elementMetadata(),WOQLQuery().element_metadata(),No,No,No,No,No,No,
+q.classMetadata(),WOQLQuery().class_metadata(),No,No,No,No,No,No,
+q.getDataOfClass(ClassID),WOQLQuery().get_data_of_class(ClassID),No,No,No,No,No,No,
+q.getDataOfProperty(PropID),WOQLQuery().get_data_of_property(PropID),No,No,No,No,No,No,
+q.documentProperties(docid),WOQLQuery().document_properties(docid),No,No,No,No,No,No,
+q.getDocumentConnections(docid),WOQLQuery().get_document_connections(docid),No,No,No,No,No,No,
+q.getInstanceMeta(docid),WOQLQuery().getInstance_meta(docid),No,No,No,No,No,No,
+q.simpleGraphQuery(),WOQLQuery().simple_graph_query(),No,No,No,No,No,No,

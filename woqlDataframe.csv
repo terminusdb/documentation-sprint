@@ -1,0 +1,6 @@
+﻿Name,Short description,Long description,Parameter,Return,Example,See Also,Assignee
+extract_header,Yes,No,No,No,No,No,Cheuk Ho
+extract_column,Yes,No,No,No,No,No,Cheuk Ho
+type_map,Yes,No,No,No,No,No,Cheuk Ho
+type_value_map,Yes,No,No,No,No,No,Cheuk Ho
+query_to_df,Yes,No,No,No,No,No,Cheuk Ho
