@@ -17,8 +17,6 @@
 9. send a pull request to the **dev branch** of terminusdb/terminus-client and terminusdb/terminus-client-python, if you can, put down which function you have worked on in this PR
 10. I will review and merge afterwards
 
-[Doc Sprint - WOQL function list](https://www.notion.so/Doc-Sprint-WOQL-function-list-6f0c21910b6b4f48a916e7477683dfb1)
-
 ## **Style Guide**
 
 ### **Python docstring**
