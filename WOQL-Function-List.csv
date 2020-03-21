@@ -16,9 +16,9 @@ WOQL.opt(Optional),WOQLQuery().opt(Optional),Yes,No,Yes,Yes,Yes,No,Robin de Rooi
 "WOQL.eq(a, b)","WOQLQuery().eq(a, b)",No,No,No,No,No,No,
 "WOQL.trim(StringA, VariableA)","WOQLQuery().trim(StringA, VariableA)",No,No,No,No,No,No,
 WOQL.delete(JSON_OR_IRI),WOQLQuery().delete(JSON_OR_IRI),No,No,No,No,No,No,
-"WOQL.delete_triple(S, P, O)","WOQLQuery().delete_triple(S, P, O)",No,No,No,No,No,No,
+"WOQL.delete_triple(S, P, O)","WOQLQuery().delete_triple(S, P, O)",No,No,No,No,No,No,Dirk Roeleveld
 "WOQL.delete_quad(S, P, O, G)","WOQLQuery().delete_quad(S, P, O, G)",No,No,No,No,No,No,
-"WOQL.add_triple(S, P, O)","WOQLQuery().add_triple(S, P, O)",No,No,No,No,No,No,
+"WOQL.add_triple(S, P, O)","WOQLQuery().add_triple(S, P, O)",No,No,No,No,No,No,Dirk Roeleveld
 "WOQL.add_quad(S, P, O, G)","WOQLQuery().add_quad(S, P, O, G)",No,No,No,No,No,No,
 "WOQL.eval(Arith, V)","WOQLQuery().eval(Arith, V)",No,No,No,No,No,No,
 "WOQL.minus(N1, N2...)","WOQLQuery().minus(N1, N2...)",No,No,No,No,No,No,
