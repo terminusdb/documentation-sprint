@@ -26,7 +26,7 @@ In general, we follow the numpy Docstring Guide: [https://numpydoc.readthedocs.i
     def woql_as(self, a=None, b=None, c=None):
             """Imports the value identified by Source to a Target variable
 
-    				When importing columns form a csv, you can use woql_as to assign
+    		When importing columns form a csv, you can use woql_as to assign
             a column to a target variable for data wrangling
 
             Parameters
@@ -43,9 +43,9 @@ In general, we follow the numpy Docstring Guide: [https://numpydoc.readthedocs.i
             WOQLQuery object
                 query object that can be chained and/or execute
 
-    				Examples
+    		Examples
             --------
-    				>>> WOQLQuery().get(WOQLQuery().woql_as("Student Name",
+    		>>> WOQLQuery().get(WOQLQuery().woql_as("Student Name",
             ...                              "v:stu_name",
             ...                              "xsd:string")).\
             ...             remote("http://some_domain.com/some_csv.csv")
