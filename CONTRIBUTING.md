@@ -43,9 +43,9 @@ In general, we follow the numpy Docstring Guide: [https://numpydoc.readthedocs.i
             WOQLQuery object
                 query object that can be chained and/or execute
 
-    		Examples
+            Examples
             --------
-    		>>> WOQLQuery().get(WOQLQuery().woql_as("Student Name",
+            >>> WOQLQuery().get(WOQLQuery().woql_as("Student Name",
             ...                              "v:stu_name",
             ...                              "xsd:string")).\
             ...             remote("http://some_domain.com/some_csv.csv")
